@@ -1,1 +1,1 @@
-# Python_tasl_DeepPavlov
+# Python_task_DeepPavlov
